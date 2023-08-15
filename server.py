@@ -5,7 +5,6 @@ from dataclasses import dataclass
 class Result:
     result: int
 
-
 app = Flask(__name__)
 
 
